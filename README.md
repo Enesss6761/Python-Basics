@@ -3,7 +3,7 @@
 Bu depo (repository), Python programlama diline giriş dersi kapsamında hazırlanan ilk 5 bölümlük temel alıştırmaları ve kod örneklerini içermektedir.
 
 ## 👤 Öğrenci Bilgileri
-* **Ad Soyad:** [Enes Erçebi]
+* **Ad Soyad:** Enes Erçebi
 * **Ders:** Python Programlama Giriş
 * **Ödev Konusu:** Temel Yazım Kuralları, Değişkenler, Operatörler ve Math Modülü
 
