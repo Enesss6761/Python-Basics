@@ -1,0 +1,14 @@
+# Değişken Tanımlama
+ad = "Muhammed Enes"
+dogum_yili = 2001
+boy = 1.81
+ogrenci_mi = False
+
+# f-string ile tanıtım
+print(f"Benim adım {ad}, {dogum_yili} yılında doğdum. Boyum {boy} metre ve öğrencilik durumum: {ogrenci_mi}.")
+
+# Veri Yapıları
+favori_meyveler = ["Elma", "Muz", "Çilek"] # List
+araba_bilgileri = ("Skoda", "Favorit", 1991) # Tuple
+ogrenci_notlari = {85, 90, 78} # Set
+kisi_bilgileri = {"ad": "Ahmet", "soyad": "Yılmaz", "sehir": "Ankara"} # Dict

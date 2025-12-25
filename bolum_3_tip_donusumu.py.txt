@@ -1,0 +1,9 @@
+# Alıştırma 1: String'i Integer'a çevirme
+yil_metin = "1923"
+yil_sayi = int(yil_metin)
+print(f"Sonuç: {yil_sayi + 100}")
+
+# Alıştırma 2: Kullanıcıdan yaş alıp 10 yıl sonrasını hesaplama
+yas_str = input("Lütfen yaşınızı giriniz: ")
+yas_int = int(yas_str)
+print(f"10 yıl sonra {yas_int + 10} yaşında olacaksınız.")

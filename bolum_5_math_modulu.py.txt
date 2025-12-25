@@ -1,0 +1,13 @@
+import math
+
+# Daire Hesaplamaları
+r = 7
+alan = math.pi * math.pow(r, 2)
+cevre = 2 * math.pi * r
+print(f"Dairenin Alanı: {alan:.2f}, Çevresi: {cevre:.2f}")
+
+# Dahili Fonksiyonlar
+liste = [15, 4, 27, 13, 32, 8]
+print(f"En Büyük: {max(liste)}")
+print(f"En Küçük: {min(liste)}")
+print(f"Toplam: {sum(liste)}")
